@@ -1,0 +1,9 @@
+aarush,11,6,M,Loves to read
+aveer,8,3,M,Watch silly videos
+ruhaan,10,5,M,Play Roblox
+araaina,13,7,F,Cooking
+saadhana,11,6,F,Play Snake.io
+
+
+
+
